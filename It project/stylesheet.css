@@ -127,7 +127,6 @@ nav .logo {
   width: 100%;
   box-sizing: border-box;
 }
-
 .dark body {
   margin-left: 200px;  
 }
@@ -148,7 +147,7 @@ header .homepage{
   align-items: center;
   justify-content:center;
   text-align: center;
-  background:linear-gradient(160deg,var(--secondary),var(--primary));
+  background:linear-gradient(130deg,var(--secondary),var(--primary));
   height:80vh;
   padding:0 20px;
 }
