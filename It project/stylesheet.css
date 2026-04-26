@@ -153,13 +153,14 @@ header .homepage{
   padding:0 20px;
 }
 .home-container1 h1{
-  font-size:3.5rem;
+  font-size:3rem;
+  font-weight:540;
   margin-bottom:0px;
 }
 .home-container1 p{
   max-width:700px;
   font-size:1.3rem;
-  line-height:1.6;
+  line-height:1.6   ;
   margin-bottom:30px;
 }
 .startbtn,.coursesbtn{
@@ -217,12 +218,12 @@ header .homepage{
   color:var(--foreground);
   margin:100px 0px;
   margin-bottom: 0px;
-  padding:80px;
+  padding:60px;
   background-color:var(--secondary);
 }
 .featured-catg h3{
-  padding:10px;
-  font-size:27px;
+  font-size:1.5rem;
+  font-weight: 150;
 }
 .featured-catg .cards{
   grid-template-columns: repeat(3, 1fr);
