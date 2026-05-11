@@ -125,7 +125,7 @@ nav .logo {
 }
 .dark nav {
   flex-direction: column;
-  height: 100vh;
+  height: 100%;
   width: 200px;
   top: 0;
   left: 0;
@@ -180,14 +180,14 @@ nav .logo {
   padding:0 20px;
 }
 .home-container1 h1{
-  font-size:3rem;
+  font-size:50px;
   font-weight:540;
   margin-bottom:0px;
 }
 .home-container1 p{
   max-width:700px;
-  font-size:1.3rem;
-  line-height:1.6   ;
+  font-size:20px;
+  line-height:1.6;
   margin-bottom:30px;
 }
 .startbtn,.coursesbtn{
